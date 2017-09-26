@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/01117d257191c1445779b4e021048a9fabe23ab4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_9028a055932885d4a602bfa5a7503f757f16084a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_736d8d2ee3332339d9a3e66bf86dcff988ab339c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/a3802dc224cf2cb4d4e345552895c070abb8302f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_bf7e7dcea2b03be983f2acc759c791e32ce6fa8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/2a288e112f80c0ef35cfb91d83843223d9a07701/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_ad3bdf5ed3a8c6c23f8999edf234abc7a1b6bfcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/466f58e0589c64dc4d9a7a5edd8045be1fb7f259/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_8237243aaa9c132ceb209d1f8c1eede069924988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/35b71150d6251b3f5c0acb52e89e47b033ed6b33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_a15fc868128390c1f315cf74c5fe6b066ea791c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/f96320bbfae2f83513a5b7691986d2b89c89cb0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_741fec26446ca904a20eb12510736e5ab63c2bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_25f997bcd551678ac067af593dfeb85669ec2bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/a08aebd6174ee60e32baf9de9c8a688c87b9bfbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_ac77801d624fc97913156561d29ed6d7c7398a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/80b6a19a65d3cc5361e235c452d34cf882cabad2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_6393471a322a253c9b09f41e4580ba0c3a46661b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/f30df78b4012d4551fa1badf5c677045c12d7652/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_e010ed64fe8160cb51c78100de5f293aecd4e952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/e141e1206e29403cf731b13dfc730b436492016a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/leonardo/Backup/PMO/AppLayout2/app/build/intermediates/pre-dexed/debug/classes_0833c1bb0340986a8d84a45def59d9b3a3adc1c7.jar" />
+    </item>
+
+</items>

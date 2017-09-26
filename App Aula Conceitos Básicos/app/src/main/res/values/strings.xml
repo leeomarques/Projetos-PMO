@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cadastro de Aluno</string>
+    <string name="digite_seu_nome">Digite seu Nome:</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+    <string name="ver">ver</string>
+    <string name="telefone">Telefone:</string>
+    <string name="digite_seu_telefone">Digite seu Telefone:</string>
+    <string name="digite_seu_endere_o">Digite seu Endereço:</string>
+    <string name="coloque_uma_foto">Coloque uma Foto:</string>
+    <string name="site_pessoal">Site Pessoal</string>
+    <string name="foto">Foto</string>
+    <string name="nota">Nota</string>
+    <string name="proximo">Proximo</string>
+    <string name="verificar_aluno">Verificar Aluno</string>
+</resources>

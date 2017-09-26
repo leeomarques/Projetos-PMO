@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    tools:context="com.example.aluno.aula22ago.MainActivity">
+
+    <EditText
+        android:id="@+id/edtNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/digite_seu_nome" />
+
+
+    <EditText
+        android:id="@+id/edtTelefone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/digite_seu_telefone"
+
+        />
+
+    <EditText
+        android:id="@+id/edtEndereco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/digite_seu_endere_o"
+
+        />
+
+    <EditText
+        android:id="@+id/edtFoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/foto"
+
+        />
+
+    <EditText
+        android:id="@+id/edtSitePessoal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/site_pessoal"
+
+        />
+
+    <EditText
+        android:id="@+id/edtNota"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nota"
+
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:onClick="onClickBtn1"
+
+            android:text="@string/verificar_aluno" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/proximo" />
+    </LinearLayout>
+
+
+</LinearLayout>
